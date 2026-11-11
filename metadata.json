@@ -1,0 +1,6 @@
+{
+  "name": "MONOLITH — Monochromatic Automotive Storefront",
+  "description": "A sleek, responsive monochromatic e-commerce storefront showcasing curated luxury, budget, and newly arrived vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
